@@ -18,7 +18,6 @@ describe("counter-anchor", () => {
       .accounts({
         counterAccount: counterAccount.publicKey,
         user: provider.wallet.publicKey,
-        systemProgram: anchor.web3.SystemProgram.programId,
       })
       .signers([counterAccount])
       .rpc();
