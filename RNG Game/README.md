@@ -66,30 +66,7 @@ cd "RNG Game/counter"
 cargo run
 ```
 
-Commands:
 
-- + or inc: Increment the counter by 1
-- - or dec: Decrement the counter by 1
-- add N: Add N to the counter
-- sub N: Subtract N from the counter
-- reset: Reset to 0
-- show: Print current counter
-- quit: Exit the program (CTRL+C if not available)
-
-Example session:
-
-```
----------------------COUNTER-----------------------
-Commands: + | - | add N | sub N | reset | show | quit
-COUNT IS  = 0 
-> +
-count = 1
-> add 10
-count = 11
-> sub 3
-count = 8
-> show
-count = 8
 ```
 
 ## Troubleshooting
