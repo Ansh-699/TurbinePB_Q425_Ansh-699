@@ -1,3 +1,6 @@
 [submodule "Rustling-Task"]
 	path = Rustling-Task
 	url = https://github.com/Ansh-699/Rustling
+[submodule "ADV-Task-01"]
+	path = ADV-Task-01
+	url = https://github.com/Ansh-699/Turbin-Adv-Task-01.git
