@@ -2,3 +2,5 @@ target
 counter-anchor/target
 Rust-Book/Multi-Thread-Web-server/target
 Rust-Book/minigrep/target
+Rust-Book/Rustling-Task/target
+Rust-Book/guess-game/target
