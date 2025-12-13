@@ -7,3 +7,12 @@
 [submodule "Rust-Book/guessing-game"]
 	path = Rust-Book/guessing-game
 	url = https://github.com/Ansh-699/rust-guessing-game.git
+[submodule "NFT-Marketplace"]
+	path = NFT-Marketplace
+	url = https://github.com/Ansh-699/NFT-Marketplace
+[submodule "Metaplex-NFT-core"]
+	path = Metaplex-NFT-core
+	url = https://github.com/Ansh-699/Metaplex-NFT-core
+[submodule "Flappy-Bird-Onchain"]
+	path = Flappy-Bird-Onchain
+	url = https://github.com/Ansh-699/Flappy-Bird-Onchain
